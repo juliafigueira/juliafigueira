@@ -2,7 +2,7 @@
 ## Bem-vindo ao meu perfil do GitHub
 <p>Eu sou formada em Sistema de Informação mas atualmente estou curso minha segunda faculdade em Ciência da Computação.</p>
 <p>Atualmente, trabalho como estagiária em Backend Developer na empresa GFT.</p>
-<p>Estou aprendendo C#, .NET e AWS</p>
+<p>Estou aprendendo Java e AWS</p>
 
 <div>
 <a href="https://github.com/juliafigueira">
@@ -16,8 +16,7 @@
 ## Estou aprendendo
 <div>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" width="40" height="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/csharp/csharp-original.svg" width="40" height="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/dot-net/dot-net-original-wordmark.svg" width="40" height="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original-wordmark.svg" width="40" height="40"/>         
 </div>
 
 ## Contato:
